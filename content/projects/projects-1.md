@@ -11,7 +11,7 @@ cover:
     caption:
     relative: false
 showToc: true
-draft: true
+draft: false
 ---
 
 ## Warior
