@@ -11,7 +11,7 @@ cd public
 git add .
 
 # Buat sebuah commit baru
-msg="chore: rebuilding site `date`"
+msg="chore: rebuilding site `date +"%Y/%m/%d %T"`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
